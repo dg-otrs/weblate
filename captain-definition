@@ -1,4 +1,4 @@
 {
  "schemaVersion": 2,
- "imageName": "weblate/weblate:latest"
+ "imageName": "weblate/weblate:3.10-1"
 }
