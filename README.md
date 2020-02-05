@@ -1,3 +1,3 @@
 # weblate
 
-Caprover definition.
+Caprover definition
